@@ -15,7 +15,7 @@ For example, if you want to set `75 %` transparency to `#FF0000` (red color), yo
 
 <br>
 
-[Live Demo here](https://jsramraj.github.io/hex|color|with-alpha-finder/)
+[Live Demo here](https://jsramraj.github.io/hex-color-with-alpha-finder/)
 
 <br>
 
